@@ -1,0 +1,23 @@
+.flashy {
+color: red;
+font-style: italic;
+}
+.best {
+  color: purple;
+  font-size: 16pt;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+body {
+  background-color: pink;
+  text-align: center;
+
+}
+
+h1.flashy {
+  text-align: center;
+  font-family:'Luckiest Guy', cursive;
+  font-size: 40pt;
+
+}
